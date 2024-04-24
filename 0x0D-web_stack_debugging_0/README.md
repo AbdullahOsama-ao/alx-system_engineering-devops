@@ -1,1 +1,1 @@
-# web stack dubugging
+# Web static debugging
